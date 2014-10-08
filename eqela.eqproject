@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Multiple Scene
+#
+
+projectname: Multiple Scene
+vendorid: com.sirMiggy
+mainmodule: com.sirMiggy.multiplescene
